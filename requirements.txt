@@ -4,3 +4,5 @@ Pillow==7.1.2
 pytorch==1.7.1+cpu
 torchvision==0.8.2+cpu
 voila==0.2.10
+ipywidgets==7.6.3
+fastbook==0.0.16
